@@ -3,4 +3,4 @@ Clone of Facebook frontpage with functionalities of posting status and images vi
 
 To run the app on local machine: Get the repo and  Type "npm install" and "npm start" on the terminal.
 
-Live Demo / Deployed Link : https://facebook-clone-64f99.web.app/
+Live Demo / Deployed Link : https://fb-clone-abbb3.web.app/
